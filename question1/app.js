@@ -9,8 +9,8 @@ app.set('views' , path.join(__dirname , '../views'))
 app.set("view engine" , "ejs");
 //rendering test
 app.get('/home' , function(req, res){
-    let page = {title : "home"}
-    res.render('page' , page);
+    // let page = {title : "home"}
+    res.render('home');
 });
 app.get('/about' , function(req, res){
     let page = {title : "about"}
