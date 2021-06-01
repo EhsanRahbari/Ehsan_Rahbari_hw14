@@ -1,0 +1,13 @@
+[{
+    "username": "erfangh",
+    "password": "1234",
+    "email": "erfan",
+    "gender": "male",
+    "isLoggedIn": false
+}, {
+    "username": "mohammadAli",
+    "password": "123456789",
+    "email": "mohammadalirajab.a@gmail.com",
+    "gender": "male",
+    "isLoggedIn": true
+}]
